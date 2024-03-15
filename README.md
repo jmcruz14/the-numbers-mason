@@ -5,6 +5,7 @@ can fit in any web application.
 
 ### Roadmap
 - First version aims to be React.js friendly
+- **Powered by TypeScript**
 - Future releases are targeted at being more Native
 in build to be as flexible as possible
 
